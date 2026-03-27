@@ -20,20 +20,14 @@ O modelo YOLO funciona dividindo a imagem em uma grade e prevendo:
 * 🎯 Probabilidade de existência de um objeto
 * 🏷️ Classe do objeto detectado
 
-Tudo isso acontece em **uma única passagem pela rede neural**, tornando o processo extremamente rápido e eficiente.
-
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
-* Python 3.x
+* Python
 * YOLO (Ultralytics / Darknet)
-* OpenCV
-* NumPy
-* Matplotlib
 
 ---
-
 
 ## 📊 Resultados
 
@@ -62,8 +56,7 @@ Durante o desenvolvimento deste projeto, foram trabalhados:
 
 * Fundamentos de Visão Computacional
 * Treinamento de modelos de Deep Learning
-* Manipulação de imagens
-* Uso prático de frameworks de IA
+* Uso prático de modelos de detecção de objetos
 
 ---
 
