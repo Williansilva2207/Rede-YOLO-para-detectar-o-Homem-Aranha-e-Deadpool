@@ -37,7 +37,6 @@ O modelo é capaz de:
 * Detectar o Deadpool em imagens
 * Gerar bounding boxes com nível de confiança
 
-*(Adicione aqui prints ou exemplos de saída — isso valoriza MUITO seu projeto)*
 
 ---
 
